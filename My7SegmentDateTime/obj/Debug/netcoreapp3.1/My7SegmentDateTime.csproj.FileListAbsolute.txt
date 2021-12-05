@@ -1,0 +1,16 @@
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.exe
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.deps.json
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.runtimeconfig.json
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.runtimeconfig.dev.json
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.dll
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\bin\Debug\netcoreapp3.1\My7SegmentDateTime.pdb
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.csproj.AssemblyReference.cache
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.Form1.resources
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.csproj.GenerateResource.cache
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.AssemblyInfoInputs.cache
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.AssemblyInfo.cs
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.csproj.CoreCompileInputs.cache
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.dll
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.pdb
+E:\AdminFileFolder\AlphaSource\repos\MyRepos\My7SegmentDateTime\My7SegmentDateTime\obj\Debug\netcoreapp3.1\My7SegmentDateTime.genruntimeconfig.cache
